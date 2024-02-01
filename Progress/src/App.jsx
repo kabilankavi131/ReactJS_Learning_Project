@@ -1,12 +1,11 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import "./App.css";
+import Counter from "./Topics/Event_handling/class";
+var App = () => {
+  return (
+    <div>
+      <Counter></Counter>
+    </div>
+  );
+};
 
-function App() {
-  const [count, setCount] = useState(0)
-
-  return <h1>Hello ReactJs </h1>;
-}
-
-export default App
+export default App;

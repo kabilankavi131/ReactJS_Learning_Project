@@ -1,0 +1,10 @@
+Props : 
+    * props are immutable
+    * props are passed to the component
+    * functional component uses the props with the help of "props"(optional we can use any other name also) keyword 
+    * class component uses the component props only with the help of "props" keyword bcoz whis is a reserved keyword i react class!!
+state :
+    * state are mutable
+    * state are used within the component
+    * functional component uses state with the help of useState Hook
+    * classs component uses the state with the help of "this.state" expression!
