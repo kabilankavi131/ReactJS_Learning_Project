@@ -1,0 +1,7 @@
+/* This File used in main App.jsx and normal.jsx*/
+.error{
+    color:red;
+}
+.success{
+    color: green;
+}

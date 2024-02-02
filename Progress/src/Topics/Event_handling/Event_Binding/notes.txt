@@ -1,0 +1,2 @@
+This Keyword:
+    * It is undefined in event handler so event binding is necessary in event handler

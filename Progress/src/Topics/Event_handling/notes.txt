@@ -1,0 +1,2 @@
+Methods as Props :
+    To use the "method as props" refer parent and child files
