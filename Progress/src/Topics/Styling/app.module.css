@@ -1,7 +1,10 @@
 /* This File used in main App.jsx and normal.jsx*/
-.error{
-    color:red;
+.error {
+  color: red;
 }
-.success{
-    color: green;
+.success {
+  color: green;
 }
+
+/* <h1 className={styles.error}>Error</h1>  ===> this is how you've to use this in code !
+      <h1 className={styles.success}>Success</h1> */
